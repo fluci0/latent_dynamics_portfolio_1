@@ -6,7 +6,7 @@ A compact, reproducible comparison of three ways to learn from the same simulate
 2. **Direct predictor** — predicts the next angular position and velocity directly.
 3. **Minimal Tabular JEPA** — predicts the next representation using a momentum-updated target encoder.
 
-The project is intentionally specific to one dataset and one physical system. Its purpose is to demonstrate model design, temporal validation, representation analysis, and clean ML engineering—not to provide a generic CSV framework.
+The project is intentionally specific to one dataset and one physical system. Its purpose is to demonstrate model design, temporal validation, representation analysis, and clean ML engineering—not to provide a generic CSV framework. This work started with initial exploratory scripts (for understanding) and then evolutionated into a structured experimental pipeline (assited by AI)
 
 ## Research question
 
